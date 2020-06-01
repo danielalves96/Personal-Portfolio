@@ -5,11 +5,10 @@ Portifólio pessoal desenvolvido com HTML, CSS e Javascript.
 
 ### Features
 
-- Player de música em HTML e CSS;
-- Suporta vários formatos de áudio.;
-- Controle de volume no próprio player;
-- Estrelas animadas para avaliação do áudio;
+- Portifólio em HTML, CSS e JavaScript;
 - Design inovador;
+- Animações com CSS e JavaScript;
+- Fácil edicção de informações.
 
 ## Screenshot
 
