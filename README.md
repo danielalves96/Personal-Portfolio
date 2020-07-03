@@ -12,7 +12,7 @@ Portifólio pessoal desenvolvido com HTML, CSS e Javascript.
 
 ## Screenshot
 
-![](https://i.ibb.co/4RK5cML/Portfolio.png)
+![](https://raw.githubusercontent.com/danielalves96/Images/master/Projetos/Portfolio/FireShot%20Capture%20015%20-%20Daniel%20Luiz%20Alves%20-%20Portfolio%20-%20danielluizalves.netlify.app.png?token=AO6ZGFKDB46HL47JJPK4MI2674RDC)
 
 ## Contribuições
 
